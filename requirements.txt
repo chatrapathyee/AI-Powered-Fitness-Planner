@@ -3,3 +3,5 @@ agno
 duckduckgo-search
 streamlit-lottie
 requests
+groq
+ddgs
